@@ -3,7 +3,7 @@
 I'm Kaushik Tripathi, a passionate MERN Stack Developer and Programmer. Welcome to my GitHub profile! 
 
 ### 🧐 About Me
-- 💼 Technical Skills: React, JavaScript, Node.js, HTML5, CSS3
+- 💼 Technical Skills: React, Redux, RTK, Postman, JavaScript, Node.js, Express, HTML5, CSS3
 - 🌱 Currently working on honing my skills in ReactJS and exploring the latest advancements in the MERN stack.
 - 👯 I'm passionate about open source contribution and actively building projects to showcase my expertise.
 - 🖥️ Studying B Tech with a focus on technical aspects like React, JavaScript, Node.js, MongoDB, and CSS. 
