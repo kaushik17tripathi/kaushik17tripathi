@@ -28,6 +28,8 @@ A web application that helps users create and manage their reading lists. It is 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kaushik17tripathi)](https://git.io/streak-stats)
 
+[![An image of @kaushik17tripathi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaushik17tripathi)](https://holopin.io/@kaushik17tripathi)
+
 ### 📫 Contact Me
 
 I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me at [my LinkedIn profile](www.linkedin.com/in/kaushik-tripathi-b40b5319a). I'd be happy to connect and discuss exciting projects!
