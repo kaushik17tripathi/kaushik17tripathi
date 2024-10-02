@@ -48,7 +48,6 @@ In addition to my technical skills, I also have experience in project management
 
 ### ✨ Get in Touch!
 
-- LinkedIn: [www.linkedin.com/in/kaushik-tripathi-b40b5319a](www.linkedin.com/in/kaushik-tripathi-b40b5319a)
 - Email: kaushiktripathi847@gmail.com
 
 Let's connect and collaborate on exciting projects together!
